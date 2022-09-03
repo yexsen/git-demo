@@ -10,7 +10,8 @@ public class GitTest01 {
         System.out.println("hello git02");
         System.out.println("hello git03");
         System.out.println("hello git04 branch01");
-        System.out.println("hello git05 branch01");
+        System.out.println("hello git05 冲突合并branch01");
+        System.out.println("hello git06 branch01");
     }
 
 }
