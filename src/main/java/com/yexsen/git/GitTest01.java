@@ -14,6 +14,7 @@ public class GitTest01 {
         System.out.println("hello git06 branch01");
         System.out.println("hello git07 branch01");
         System.out.println("测试远程推送");
+        System.out.println("测试远程拉取");
     }
 
 }
